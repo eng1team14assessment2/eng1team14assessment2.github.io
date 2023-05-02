@@ -4,7 +4,12 @@
   </a>
 
   <h1 align="center">Piazza Panic</h1>
-
+  <h2 align="center">A Team 14 Studios Game (Taken from Lucky Team 13)</h2>
+  
+  <h2> Contents </h2>
+  <p align="center">
+  </p>
+    
   <p align="center">
     A LibGDX game for ENG1
     <br />
@@ -16,14 +21,57 @@
 </div>
 
 
-
 <h3 align="center">Information Documents</h3>
 <p align="center">
   <a href="./files/info/brief.md"><strong> brief.md </strong></a>
   •
   <a href="./files/info/eng1-team-assessment-1.pdf"><strong> assessment.pdf </strong></a>
 </p>
-<h1 align="center">Assessment Files</h1>
+
+<h1 align="center">Assessment 2 Files</h1>
+
+<h3 align="center">Version Control Repository</h3>
+<p align="center">
+  <a href="https://github.com/team13eng1/piazza-panic"><strong>github.com</strong></a>
+</p>
+
+<h3 align="center">Change Report</h3>
+<p align="center">
+  <a href="./files/assessment/Requirements v2.pdf"><strong>Change Report</strong></a>
+</p>
+
+<h3 align="center">Website</h3>
+<p align="center">
+  <a href="https://team13eng1.github.io/"><strong>Website Link</strong></a>
+</p>
+
+<h3 align="center">Requirements</h3>
+<p align="center">
+  <a href="./files/assessment/Requirements v2.pdf"><strong>Requirements v2</strong></a>
+</p>
+
+<h3 align="center">Architecture</h3>
+<p align="center">
+  <a href="./files/assessment/Requirements v2.pdf"><strong>Architecture</strong></a>
+</p>
+
+<h3 align="center">Continuous Integration</h3>
+<p align="center">
+  <a href="./files/assessment/Requirements v2.pdf"><strong>Continuous Integration link</strong></a>
+</p>
+
+<h3 align="center">Implementation.Jar</h3>
+<p align="center">
+  <a href="./files/assessment/Requirements v2.pdf"><strong>Continuous Integration link</strong></a>
+</p>
+<h3 align="center">Implementation PDF</h3>
+<p align="center">
+  <a href="./files/assessment/Requirements v2.pdf"><strong>Implementation.pdf</strong></a>
+</p>
+
+
+
+<h1 align="center">Group 13's Assessment 1 Files</h1>
 
 <h3 align="center">Version Control Repository</h3>
 <p align="center">
@@ -59,9 +107,9 @@
   •
   <a href="./files/assessment/Component Diagram v2.pdf"><strong> Component Diagram v2 </strong></a>
   •
-  <a href="./files/assessment/All Attributes in chef.pdf"><strong> All Attributes in chef </strong></a>
+  <a href="./files/assessment/All attributes in chef.pdf"><strong> All Attributes in chef </strong></a>
   •
-  <a href="./files/assessment/All Attributes in playScreen.pdf"><strong> All Attributes in playScreen </strong></a>
+  <a href="./files/assessment/All attributes in playScreen.pdf"><strong> All Attributes in playScreen </strong></a>
   •
   <a href="./files/assessment/Chef Class Diagram.pdf"><strong> Chef Class Diagram </strong></a>
   •
