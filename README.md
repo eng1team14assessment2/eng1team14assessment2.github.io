@@ -74,13 +74,13 @@
 
 <p align="center">
 <h3 align="center">Architecture</h3>
-<img src="./ArchitectureImages/ArchShot1.png">
-<img src="./ArchitectureImages/ArchShot2.png">
-<img src="./ArchitectureImages/ArchShot3.png">
-<img src="./ArchitectureImages/ArchShot4.png">
-<img src="./ArchitectureImages/ArchShot5.png">
-<img src="./ArchitectureImages/ArchShot6.png">
-<img src="./ArchitectureImages/ArchShot7.png">
+<img align="center" src="./ArchitectureImages/ArchShot1.png">
+<img align="center" src="./ArchitectureImages/ArchShot2.png">
+<img align="center" src="./ArchitectureImages/ArchShot3.png">
+<img align="center" src="./ArchitectureImages/ArchShot4.png">
+<img align="center" src="./ArchitectureImages/ArchShot5.png">
+<img align="center" src="./ArchitectureImages/ArchShot6.png">
+<img align="center" src="./ArchitectureImages/ArchShot7.png">
 </p>
 
 
