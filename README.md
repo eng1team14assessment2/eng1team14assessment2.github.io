@@ -35,7 +35,6 @@
   <a href="https://eng1team14assessment2.github.io/"><strong>Website Link</strong></a>
 </p>
 
-
 <h3 align="center">Version Control Repository</h3>
 <p align="center">
   <a href="https://github.com/HHllmn/Piazza-Panic-Assessment2"><strong>github.com</strong></a>
@@ -51,11 +50,6 @@
   <a href="./files/assessment/CI2.pdf"><strong>Continuous Integration link</strong></a>
 </p>
 
-<h3 align="center">Tests</h3>
-<p align="center">
-  <a href="./files/assessment/Test2.pdf"><strong>Requirements v2</strong></a>
-</p>
-
 <h3 align="center">Implementation.Jar</h3>
 <p align="center">
   <a href="./files/assessment/PiazzaPanic2.jar"><strong>PiazzaPanic2.jar</strong></a>
@@ -63,6 +57,11 @@
 <h3 align="center">Implementation PDF</h3>
 <p align="center">
   <a href="./files/assessment/Impl2.pdf"><strong>Implementation.pdf</strong></a>
+</p>
+
+<h3 align="center">Tests</h3>
+<p align="center">
+  <a href="./files/assessment/Test2.pdf"><strong>Testing</strong></a>
 </p>
 
 <p align="center">
