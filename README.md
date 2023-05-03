@@ -55,13 +55,14 @@
   <a href="./files/assessment/Requirements v2.pdf"><strong>Architecture</strong></a>
 </p>
 <p align="center">
-<img src="./ArchitectureImages/ArchShot1.png">
-<img src="./ArchitectureImages/ArchShot2.png">
-<img src="./ArchitectureImages/ArchShot3.png">
-<img src="./ArchitectureImages/ArchShot4.png">
-<img src="./ArchitectureImages/ArchShot5.png">
-<img src="./ArchitectureImages/ArchShot6.png">
-<img src="./ArchitectureImages/ArchShot7.png">
+<img src="./ArchitectureImages/ArchShot1.png" width=50% height=50%>
+<img src="./ArchitectureImages/ArchShot2.png" width=50% height=50%>
+<img src="./ArchitectureImages/ArchShot3.png" width=50% height=50%>
+<img src="./ArchitectureImages/ArchShot4.png" width=50% height=50%>
+<img src="./ArchitectureImages/ArchShot5.png" width=50% height=50%>
+<img src="./ArchitectureImages/ArchShot6.png" width=50% height=50%>
+<img src="./ArchitectureImages/ArchShot7.png" width=50% height=50%>
+<img src="./ArchitectureImages/ArchShot8.png" width=50% height=50%>
 </p>
 
 <h3 align="center">Continuous Integration</h3>
