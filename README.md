@@ -13,10 +13,10 @@
   <p align="center">
     A LibGDX game for ENG1
     <br />
-    <a href="https://github.com/team13eng1/piazza-panic"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/HHllmn/Piazza-Panic-Assessment2"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://team13eng1.github.io/">View Website</a>
+    <a href="https://eng1team14assessment2.github.io/">View Website</a>
   </p>
 </div>
 
