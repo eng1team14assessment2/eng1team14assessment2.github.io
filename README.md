@@ -70,6 +70,7 @@
     <br />
 <img src="./TestImages/TestMatrix.png">
 <img src="./TestImages/TestCoverage.png">
+<img src="./TestImages/TestResults.png">
 </p>
 
 <p align="center">
