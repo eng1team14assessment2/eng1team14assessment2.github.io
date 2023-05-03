@@ -54,6 +54,9 @@
 <p align="center">
   <a href="./files/assessment/Requirements v2.pdf"><strong>Architecture</strong></a>
 </p>
+<p align="center">
+<img src="./ArchitectureImages/ArchShot1">
+</p>
 
 <h3 align="center">Continuous Integration</h3>
 <p align="center">
