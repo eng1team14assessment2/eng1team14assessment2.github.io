@@ -74,6 +74,7 @@
 </p>
 
 <p align="center">
+<h3 align="center">Architecture</h3>
 <img src="./ArchitectureImages/ArchShot1.png">
 <img src="./ArchitectureImages/ArchShot2.png">
 <img src="./ArchitectureImages/ArchShot3.png">
