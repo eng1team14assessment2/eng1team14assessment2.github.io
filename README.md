@@ -30,55 +30,51 @@
 
 <h1 align="center">Assessment 2 Files</h1>
 
+<h3 align="center">Website</h3>
+<p align="center">
+  <a href="https://eng1team14assessment2.github.io/"><strong>Website Link</strong></a>
+</p>
+
+
 <h3 align="center">Version Control Repository</h3>
 <p align="center">
-  <a href="https://github.com/team13eng1/piazza-panic"><strong>github.com</strong></a>
+  <a href="https://github.com/HHllmn/Piazza-Panic-Assessment2"><strong>github.com</strong></a>
 </p>
 
 <h3 align="center">Change Report</h3>
 <p align="center">
-  <a href="./files/assessment/Requirements v2.pdf"><strong>Change Report</strong></a>
-</p>
-
-<h3 align="center">Website</h3>
-<p align="center">
-  <a href="https://team13eng1.github.io/"><strong>Website Link</strong></a>
-</p>
-
-<h3 align="center">Requirements</h3>
-<p align="center">
-  <a href="./files/assessment/Requirements v2.pdf"><strong>Requirements v2</strong></a>
-</p>
-
-<h3 align="center">Architecture</h3>
-<p align="center">
-  <a href="./files/assessment/Requirements v2.pdf"><strong>Architecture</strong></a>
-</p>
-<p align="center">
-<img src="./ArchitectureImages/ArchShot1.png" width=50% height=50%>
-<img src="./ArchitectureImages/ArchShot2.png" width=50% height=50%>
-<img src="./ArchitectureImages/ArchShot3.png" width=50% height=50%>
-<img src="./ArchitectureImages/ArchShot4.png" width=50% height=50%>
-<img src="./ArchitectureImages/ArchShot5.png" width=50% height=50%>
-<img src="./ArchitectureImages/ArchShot6.png" width=50% height=50%>
-<img src="./ArchitectureImages/ArchShot7.png" width=50% height=50%>
-<img src="./ArchitectureImages/ArchShot8.png" width=50% height=50%>
+  <a href="./files/assessment/Change2.pdf"><strong>Change Report</strong></a>
 </p>
 
 <h3 align="center">Continuous Integration</h3>
 <p align="center">
-  <a href="./files/assessment/Requirements v2.pdf"><strong>Continuous Integration link</strong></a>
+  <a href="./files/assessment/CI2.pdf"><strong>Continuous Integration link</strong></a>
+</p>
+
+<h3 align="center">Tests</h3>
+<p align="center">
+  <a href="./files/assessment/Test2.pdf"><strong>Requirements v2</strong></a>
 </p>
 
 <h3 align="center">Implementation.Jar</h3>
 <p align="center">
-  <a href="./files/assessment/Requirements v2.pdf"><strong>Continuous Integration link</strong></a>
+  <a href="./files/assessment/PiazzaPanic2.jar"><strong>PiazzaPanic2.jar</strong></a>
 </p>
 <h3 align="center">Implementation PDF</h3>
 <p align="center">
-  <a href="./files/assessment/Requirements v2.pdf"><strong>Implementation.pdf</strong></a>
+  <a href="./files/assessment/Impl2.pdf"><strong>Implementation.pdf</strong></a>
 </p>
 
+
+<p align="center">
+<img src="./ArchitectureImages/ArchShot1.png">
+<img src="./ArchitectureImages/ArchShot2.png">
+<img src="./ArchitectureImages/ArchShot3.png">
+<img src="./ArchitectureImages/ArchShot4.png">
+<img src="./ArchitectureImages/ArchShot5.png">
+<img src="./ArchitectureImages/ArchShot6.png">
+<img src="./ArchitectureImages/ArchShot7.png">
+</p>
 
 
 <h1 align="center">Group 13's Assessment 1 Files</h1>
